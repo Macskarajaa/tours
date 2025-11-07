@@ -1,1 +1,1 @@
-link: tours12345.netlify.app
+link: https://tours12345.netlify.app
